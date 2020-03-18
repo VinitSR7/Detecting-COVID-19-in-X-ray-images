@@ -5,7 +5,7 @@ Detecting COVID-19 in X-ray images using Deep learning
 ## Covid-19 Images
 For the COVID-19 X-ray images, we will take the help of this <a href = "https://github.com/ieee8023/covid-chestxray-dataset" >repo </a>, created by <a href="https://josephpcohen.com/w/">Dr. Cohen. </a>
  <ul> 
- <h3>In order to create the COVID-19 X-ray image dataset</h3>
+ <b>In order to create the COVID-19 X-ray image dataset</b>
  <li> We need to parse the <code class="EnlighterJSRAW enlighter-origin" data-enlighter-language="python">metadata.csv</code> file in the repo.</li>
  <li> Select all rows that are: Positive for COVID-19.</li>
  
