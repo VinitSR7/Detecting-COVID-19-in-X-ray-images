@@ -21,5 +21,5 @@ For the COVID-19 X-ray images, we will take the help of this <a href = "https://
 <p>After gathering of dataset, we were left with 50 total images, equally split with 25 images of COVID-19 positive X-rays and 25 images of healthy patient X-rays.</p>
 
 
-<p> Training part is done in <code class="EnlighterJSRAW enlighter-origin" data-enlighter-language="python">Train.ipynb.</code> </p>
+### Training part is done in <code class="EnlighterJSRAW enlighter-origin" data-enlighter-language="python">Train.ipynb.</code>  
 
